@@ -1,0 +1,247 @@
+At clock cycle: 1, Router ID: 1, The Head Flit is traveling from Source 1 to destination 7 at input_buffer and its delay is 0.
+-----------------------------------------------------NEW CYCLE----------------------------------------------------
+
+At clock cycle: 2, Router ID: 1, The Body Flit is traveling from Source 1 to destination 7 at input_buffer and its delay is 0.
+At clock cycle: 2, Router ID: 1, The Head Flit is traveling from Source 1 to destination 7 at switch_allocator and its delay is 3.0.
+-----------------------------------------------------NEW CYCLE----------------------------------------------------
+
+At clock cycle: 3, Router ID: 1, The Body Flit is traveling from Source 1 to destination 7 at input_buffer and its delay is 0.
+At clock cycle: 3, Router ID: 1, The Body Flit traveling from Source 1 to destination 7 is being delayed at Switch Allocator
+At clock cycle: 3, Router ID: 1, The Body Flit traveling from Source 1 to destination 7 is being delayed at Input_Buffer
+At clock cycle: 3, Router ID: 1, The Head Flit is traveling from Source 1 to destination 7 at switch_allocator and its delay is 3.0.
+At clock cycle: 3, Router ID: 1, The Head Flit traveling from Source 1 to destination 7 is being delayed at Switch Allocator
+At clock cycle: 3, Router ID: 1, The Head Flit traveling from Source 1 to destination 7 is being delayed at Input_Buffer
+At clock cycle: 3, Router ID: 7, The Head Flit is traveling from Source 7 to destination 5 at input_buffer and its delay is 0.
+-----------------------------------------------------NEW CYCLE----------------------------------------------------
+
+At clock cycle: 4, Router ID: 1, The Tail Flit is traveling from Source 1 to destination 7 at input_buffer and its delay is 0.
+At clock cycle: 4, Router ID: 1, The Body Flit is traveling from Source 1 to destination 7 at switch_allocator and its delay is 6.0.
+At clock cycle: 4, Router ID: 1, The Head Flit is traveling from Source 1 to destination 7 at Crossbar and its delay is 9.0.
+At clock cycle: 4, Router ID: 7, The Head Flit is traveling from Source 7 to destination 5 at input_buffer and its delay is 0.
+At clock cycle: 4, Router ID: 7, The Head Flit traveling from Source 7 to destination 5 is being delayed at Input_Buffer
+-----------------------------------------------------NEW CYCLE----------------------------------------------------
+
+At clock cycle: 5, Router ID: 1, The Tail Flit is traveling from Source 1 to destination 7 at input_buffer and its delay is 0.
+At clock cycle: 5, Router ID: 1, The Tail Flit traveling from Source 1 to destination 7 is being delayed at Crossbar
+At clock cycle: 5, Router ID: 1, The Tail Flit traveling from Source 1 to destination 7 is being delayed at Switch Allocator
+At clock cycle: 5, Router ID: 1, The Tail Flit traveling from Source 1 to destination 7 is being delayed at Input_Buffer
+At clock cycle: 5, Router ID: 1, The Body Flit is traveling from Source 1 to destination 7 at switch_allocator and its delay is 6.0.
+At clock cycle: 5, Router ID: 1, The Body Flit traveling from Source 1 to destination 7 is being delayed at Crossbar
+At clock cycle: 5, Router ID: 1, The Body Flit traveling from Source 1 to destination 7 is being delayed at Switch Allocator
+At clock cycle: 5, Router ID: 1, The Body Flit traveling from Source 1 to destination 7 is being delayed at Input_Buffer
+At clock cycle: 5, Router ID: 1, The Head Flit is traveling from Source 1 to destination 7 at Crossbar and its delay is 9.0.
+At clock cycle: 5, Router ID: 1, The Head Flit traveling from Source 1 to destination 7 is being delayed at Crossbar
+At clock cycle: 5, Router ID: 1, The Head Flit traveling from Source 1 to destination 7 is being delayed at Switch Allocator
+At clock cycle: 5, Router ID: 1, The Head Flit traveling from Source 1 to destination 7 is being delayed at Input_Buffer
+At clock cycle: 5, Router ID: 7, The Body Flit is traveling from Source 7 to destination 5 at input_buffer and its delay is 0.
+At clock cycle: 5, Router ID: 7, The Head Flit is traveling from Source 7 to destination 5 at switch_allocator and its delay is 6.0.
+-----------------------------------------------------NEW CYCLE----------------------------------------------------
+
+At clock cycle: 6, Router ID: 1, The Tail Flit is traveling from Source 1 to destination 7 at switch_allocator and its delay is 6.0.
+At clock cycle: 6, Router ID: 1, The Body Flit is traveling from Source 1 to destination 7 at Crossbar and its delay is 12.0.
+At clock cycle: 6, Router ID: 4, The Head Flit is traveling from Source 1 to destination 7 at input_buffer and its delay is 15.0.
+At clock cycle: 6, Router ID: 7, The Body Flit is traveling from Source 7 to destination 5 at input_buffer and its delay is 0.
+At clock cycle: 6, Router ID: 7, The Body Flit traveling from Source 7 to destination 5 is being delayed at Switch Allocator
+At clock cycle: 6, Router ID: 7, The Body Flit traveling from Source 7 to destination 5 is being delayed at Input_Buffer
+At clock cycle: 6, Router ID: 7, The Head Flit is traveling from Source 7 to destination 5 at switch_allocator and its delay is 6.0.
+At clock cycle: 6, Router ID: 7, The Head Flit traveling from Source 7 to destination 5 is being delayed at Switch Allocator
+At clock cycle: 6, Router ID: 7, The Head Flit traveling from Source 7 to destination 5 is being delayed at Input_Buffer
+-----------------------------------------------------NEW CYCLE----------------------------------------------------
+
+At clock cycle: 7, Router ID: 1, The Tail Flit is traveling from Source 1 to destination 7 at switch_allocator and its delay is 6.0.
+At clock cycle: 7, Router ID: 1, The Tail Flit traveling from Source 1 to destination 7 is being delayed at Crossbar
+At clock cycle: 7, Router ID: 1, The Tail Flit traveling from Source 1 to destination 7 is being delayed at Switch Allocator
+At clock cycle: 7, Router ID: 1, The Body Flit is traveling from Source 1 to destination 7 at Crossbar and its delay is 12.0.
+At clock cycle: 7, Router ID: 1, The Body Flit traveling from Source 1 to destination 7 is being delayed at Crossbar
+At clock cycle: 7, Router ID: 1, The Body Flit traveling from Source 1 to destination 7 is being delayed at Switch Allocator
+At clock cycle: 7, Router ID: 4, The Head Flit is traveling from Source 1 to destination 7 at input_buffer and its delay is 15.0.
+At clock cycle: 7, Router ID: 4, The Head Flit traveling from Source 1 to destination 7 is being delayed at Input_Buffer
+At clock cycle: 7, Router ID: 7, The Tail Flit is traveling from Source 7 to destination 5 at input_buffer and its delay is 0.
+At clock cycle: 7, Router ID: 7, The Body Flit is traveling from Source 7 to destination 5 at switch_allocator and its delay is 6.0.
+At clock cycle: 7, Router ID: 7, The Head Flit is traveling from Source 7 to destination 5 at Crossbar and its delay is 12.0.
+-----------------------------------------------------NEW CYCLE----------------------------------------------------
+
+At clock cycle: 8, Router ID: 1, The Tail Flit is traveling from Source 1 to destination 7 at Crossbar and its delay is 12.0.
+At clock cycle: 8, Router ID: 4, The Body Flit is traveling from Source 1 to destination 7 at input_buffer and its delay is 18.0.
+At clock cycle: 8, Router ID: 4, The Head Flit is traveling from Source 1 to destination 7 at switch_allocator and its delay is 21.0.
+At clock cycle: 8, Router ID: 7, The Tail Flit is traveling from Source 7 to destination 5 at input_buffer and its delay is 0.
+At clock cycle: 8, Router ID: 7, The Tail Flit traveling from Source 7 to destination 5 is being delayed at Crossbar
+At clock cycle: 8, Router ID: 7, The Tail Flit traveling from Source 7 to destination 5 is being delayed at Switch Allocator
+At clock cycle: 8, Router ID: 7, The Tail Flit traveling from Source 7 to destination 5 is being delayed at Input_Buffer
+At clock cycle: 8, Router ID: 7, The Body Flit is traveling from Source 7 to destination 5 at switch_allocator and its delay is 6.0.
+At clock cycle: 8, Router ID: 7, The Body Flit traveling from Source 7 to destination 5 is being delayed at Crossbar
+At clock cycle: 8, Router ID: 7, The Body Flit traveling from Source 7 to destination 5 is being delayed at Switch Allocator
+At clock cycle: 8, Router ID: 7, The Body Flit traveling from Source 7 to destination 5 is being delayed at Input_Buffer
+At clock cycle: 8, Router ID: 7, The Head Flit is traveling from Source 7 to destination 5 at Crossbar and its delay is 12.0.
+At clock cycle: 8, Router ID: 7, The Head Flit traveling from Source 7 to destination 5 is being delayed at Crossbar
+At clock cycle: 8, Router ID: 7, The Head Flit traveling from Source 7 to destination 5 is being delayed at Switch Allocator
+At clock cycle: 8, Router ID: 7, The Head Flit traveling from Source 7 to destination 5 is being delayed at Input_Buffer
+-----------------------------------------------------NEW CYCLE----------------------------------------------------
+
+At clock cycle: 9, Router ID: 1, The Tail Flit is traveling from Source 1 to destination 7 at Crossbar and its delay is 12.0.
+At clock cycle: 9, Router ID: 1, The Tail Flit traveling from Source 1 to destination 7 is being delayed at Crossbar
+At clock cycle: 9, Router ID: 4, The Body Flit is traveling from Source 1 to destination 7 at input_buffer and its delay is 18.0.
+At clock cycle: 9, Router ID: 4, The Body Flit traveling from Source 1 to destination 7 is being delayed at Switch Allocator
+At clock cycle: 9, Router ID: 4, The Body Flit traveling from Source 1 to destination 7 is being delayed at Input_Buffer
+At clock cycle: 9, Router ID: 4, The Head Flit is traveling from Source 1 to destination 7 at switch_allocator and its delay is 21.0.
+At clock cycle: 9, Router ID: 4, The Head Flit traveling from Source 1 to destination 7 is being delayed at Switch Allocator
+At clock cycle: 9, Router ID: 4, The Head Flit traveling from Source 1 to destination 7 is being delayed at Input_Buffer
+At clock cycle: 9, Router ID: 7, The Tail Flit is traveling from Source 7 to destination 5 at switch_allocator and its delay is 6.0.
+At clock cycle: 9, Router ID: 7, The Body Flit is traveling from Source 7 to destination 5 at Crossbar and its delay is 12.0.
+-----------------------------------------------------NEW CYCLE----------------------------------------------------
+
+At clock cycle: 10, Router ID: 4, The Head Flit is traveling from Source 7 to destination 5 at input_buffer and its delay is 18.0.
+At clock cycle: 10, Router ID: 4, The Body Flit is traveling from Source 1 to destination 7 at switch_allocator and its delay is 24.0.
+At clock cycle: 10, Router ID: 4, The Head Flit is traveling from Source 1 to destination 7 at Crossbar and its delay is 27.0.
+At clock cycle: 10, Router ID: 7, The Tail Flit is traveling from Source 7 to destination 5 at switch_allocator and its delay is 6.0.
+At clock cycle: 10, Router ID: 7, The Tail Flit traveling from Source 7 to destination 5 is being delayed at Crossbar
+At clock cycle: 10, Router ID: 7, The Tail Flit traveling from Source 7 to destination 5 is being delayed at Switch Allocator
+At clock cycle: 10, Router ID: 7, The Body Flit is traveling from Source 7 to destination 5 at Crossbar and its delay is 12.0.
+At clock cycle: 10, Router ID: 7, The Body Flit traveling from Source 7 to destination 5 is being delayed at Crossbar
+At clock cycle: 10, Router ID: 7, The Body Flit traveling from Source 7 to destination 5 is being delayed at Switch Allocator
+-----------------------------------------------------NEW CYCLE----------------------------------------------------
+
+At clock cycle: 11, Router ID: 4, The Head Flit is traveling from Source 7 to destination 5 at input_buffer and its delay is 18.0.
+At clock cycle: 11, Router ID: 4, The Head Flit traveling from Source 7 to destination 5 is being delayed at Crossbar
+At clock cycle: 11, Router ID: 4, The Head Flit traveling from Source 7 to destination 5 is being delayed at Switch Allocator
+At clock cycle: 11, Router ID: 4, The Head Flit traveling from Source 7 to destination 5 is being delayed at Input_Buffer
+At clock cycle: 11, Router ID: 4, The Body Flit is traveling from Source 1 to destination 7 at switch_allocator and its delay is 24.0.
+At clock cycle: 11, Router ID: 4, The Body Flit traveling from Source 1 to destination 7 is being delayed at Crossbar
+At clock cycle: 11, Router ID: 4, The Body Flit traveling from Source 1 to destination 7 is being delayed at Switch Allocator
+At clock cycle: 11, Router ID: 4, The Body Flit traveling from Source 1 to destination 7 is being delayed at Input_Buffer
+At clock cycle: 11, Router ID: 4, The Head Flit is traveling from Source 1 to destination 7 at Crossbar and its delay is 27.0.
+At clock cycle: 11, Router ID: 4, The Head Flit traveling from Source 1 to destination 7 is being delayed at Crossbar
+At clock cycle: 11, Router ID: 4, The Head Flit traveling from Source 1 to destination 7 is being delayed at Switch Allocator
+At clock cycle: 11, Router ID: 4, The Head Flit traveling from Source 1 to destination 7 is being delayed at Input_Buffer
+At clock cycle: 11, Router ID: 7, The Tail Flit is traveling from Source 7 to destination 5 at Crossbar and its delay is 12.0.
+-----------------------------------------------------NEW CYCLE----------------------------------------------------
+
+At clock cycle: 12, Router ID: 4, The Tail Flit is traveling from Source 1 to destination 7 at input_buffer and its delay is 18.0.
+At clock cycle: 12, Router ID: 4, The Head Flit is traveling from Source 7 to destination 5 at switch_allocator and its delay is 24.0.
+At clock cycle: 12, Router ID: 4, The Body Flit is traveling from Source 1 to destination 7 at Crossbar and its delay is 30.0.
+At clock cycle: 12, Router ID: 7, The Head Flit is traveling from Source 1 to destination 7 at input_buffer and its delay is 33.0.
+At clock cycle: 12, Router ID: 7, The Head Flit traveling from Source 1 to destination 7 is being delayed at Crossbar
+At clock cycle: 12, Router ID: 7, The Tail Flit is traveling from Source 7 to destination 5 at Crossbar and its delay is 12.0.
+At clock cycle: 12, Router ID: 7, The Tail Flit traveling from Source 7 to destination 5 is being delayed at Crossbar
+-----------------------------------------------------NEW CYCLE----------------------------------------------------
+
+At clock cycle: 13, Router ID: 4, The Tail Flit is traveling from Source 1 to destination 7 at input_buffer and its delay is 18.0.
+At clock cycle: 13, Router ID: 4, The Tail Flit traveling from Source 1 to destination 7 is being delayed at Crossbar
+At clock cycle: 13, Router ID: 4, The Tail Flit traveling from Source 1 to destination 7 is being delayed at Switch Allocator
+At clock cycle: 13, Router ID: 4, The Tail Flit traveling from Source 1 to destination 7 is being delayed at Input_Buffer
+At clock cycle: 13, Router ID: 4, The Head Flit is traveling from Source 7 to destination 5 at switch_allocator and its delay is 24.0.
+At clock cycle: 13, Router ID: 4, The Head Flit traveling from Source 7 to destination 5 is being delayed at Crossbar
+At clock cycle: 13, Router ID: 4, The Head Flit traveling from Source 7 to destination 5 is being delayed at Switch Allocator
+At clock cycle: 13, Router ID: 4, The Head Flit traveling from Source 7 to destination 5 is being delayed at Input_Buffer
+At clock cycle: 13, Router ID: 4, The Body Flit is traveling from Source 1 to destination 7 at Crossbar and its delay is 30.0.
+At clock cycle: 13, Router ID: 4, The Body Flit traveling from Source 1 to destination 7 is being delayed at Crossbar
+At clock cycle: 13, Router ID: 4, The Body Flit traveling from Source 1 to destination 7 is being delayed at Switch Allocator
+At clock cycle: 13, Router ID: 4, The Body Flit traveling from Source 1 to destination 7 is being delayed at Input_Buffer
+At clock cycle: 13, Router ID: 7, The Head Flit is traveling from Source 1 to destination 7 at input_buffer and its delay is 33.0.
+At clock cycle: 13, Router ID: 7, The Head Flit traveling from Source 1 to destination 7 is being delayed at Input_Buffer
+-----------------------------------------------------NEW CYCLE----------------------------------------------------
+
+At clock cycle: 14, Router ID: 4, The Body Flit is traveling from Source 7 to destination 5 at input_buffer and its delay is 18.0.
+At clock cycle: 14, Router ID: 4, The Tail Flit is traveling from Source 1 to destination 7 at switch_allocator and its delay is 24.0.
+At clock cycle: 14, Router ID: 4, The Head Flit is traveling from Source 7 to destination 5 at Crossbar and its delay is 30.0.
+At clock cycle: 14, Router ID: 7, The Body Flit is traveling from Source 1 to destination 7 at input_buffer and its delay is 36.0.
+At clock cycle: 14, Router ID: 7, The Head Flit is traveling from Source 1 to destination 7 at switch_allocator and its delay is 39.0.
+-----------------------------------------------------NEW CYCLE----------------------------------------------------
+
+At clock cycle: 15, Router ID: 4, The Body Flit is traveling from Source 7 to destination 5 at input_buffer and its delay is 18.0.
+At clock cycle: 15, Router ID: 4, The Body Flit traveling from Source 7 to destination 5 is being delayed at Crossbar
+At clock cycle: 15, Router ID: 4, The Body Flit traveling from Source 7 to destination 5 is being delayed at Switch Allocator
+At clock cycle: 15, Router ID: 4, The Body Flit traveling from Source 7 to destination 5 is being delayed at Input_Buffer
+At clock cycle: 15, Router ID: 4, The Tail Flit is traveling from Source 1 to destination 7 at switch_allocator and its delay is 24.0.
+At clock cycle: 15, Router ID: 4, The Tail Flit traveling from Source 1 to destination 7 is being delayed at Crossbar
+At clock cycle: 15, Router ID: 4, The Tail Flit traveling from Source 1 to destination 7 is being delayed at Switch Allocator
+At clock cycle: 15, Router ID: 4, The Tail Flit traveling from Source 1 to destination 7 is being delayed at Input_Buffer
+At clock cycle: 15, Router ID: 4, The Head Flit is traveling from Source 7 to destination 5 at Crossbar and its delay is 30.0.
+At clock cycle: 15, Router ID: 4, The Head Flit traveling from Source 7 to destination 5 is being delayed at Crossbar
+At clock cycle: 15, Router ID: 4, The Head Flit traveling from Source 7 to destination 5 is being delayed at Switch Allocator
+At clock cycle: 15, Router ID: 4, The Head Flit traveling from Source 7 to destination 5 is being delayed at Input_Buffer
+At clock cycle: 15, Router ID: 7, The Body Flit is traveling from Source 1 to destination 7 at input_buffer and its delay is 36.0.
+At clock cycle: 15, Router ID: 7, The Body Flit traveling from Source 1 to destination 7 is being delayed at Switch Allocator
+At clock cycle: 15, Router ID: 7, The Body Flit traveling from Source 1 to destination 7 is being delayed at Input_Buffer
+At clock cycle: 15, Router ID: 7, The Head Flit is traveling from Source 1 to destination 7 at switch_allocator and its delay is 39.0.
+At clock cycle: 15, Router ID: 7, The Head Flit traveling from Source 1 to destination 7 is being delayed at Switch Allocator
+At clock cycle: 15, Router ID: 7, The Head Flit traveling from Source 1 to destination 7 is being delayed at Input_Buffer
+-----------------------------------------------------NEW CYCLE----------------------------------------------------
+
+At clock cycle: 16, Router ID: 4, The Tail Flit is traveling from Source 7 to destination 5 at input_buffer and its delay is 18.0.
+At clock cycle: 16, Router ID: 4, The Body Flit is traveling from Source 7 to destination 5 at switch_allocator and its delay is 24.0.
+At clock cycle: 16, Router ID: 4, The Tail Flit is traveling from Source 1 to destination 7 at Crossbar and its delay is 30.0.
+At clock cycle: 16, Router ID: 5, The Head Flit is traveling from Source 7 to destination 5 at input_buffer and its delay is 36.0.
+At clock cycle: 16, Router ID: 7, The Body Flit is traveling from Source 1 to destination 7 at switch_allocator and its delay is 42.0.
+At clock cycle: 16, Router ID: 7, The Head Flit is traveling from Source 1 to destination 7 at Crossbar and its delay is 45.0.
+-----------------------------------------------------NEW CYCLE----------------------------------------------------
+
+At clock cycle: 17, Router ID: 4, The Tail Flit is traveling from Source 7 to destination 5 at input_buffer and its delay is 18.0.
+At clock cycle: 17, Router ID: 4, The Tail Flit traveling from Source 7 to destination 5 is being delayed at Crossbar
+At clock cycle: 17, Router ID: 4, The Tail Flit traveling from Source 7 to destination 5 is being delayed at Switch Allocator
+At clock cycle: 17, Router ID: 4, The Tail Flit traveling from Source 7 to destination 5 is being delayed at Input_Buffer
+At clock cycle: 17, Router ID: 4, The Body Flit is traveling from Source 7 to destination 5 at switch_allocator and its delay is 24.0.
+At clock cycle: 17, Router ID: 4, The Body Flit traveling from Source 7 to destination 5 is being delayed at Crossbar
+At clock cycle: 17, Router ID: 4, The Body Flit traveling from Source 7 to destination 5 is being delayed at Switch Allocator
+At clock cycle: 17, Router ID: 4, The Body Flit traveling from Source 7 to destination 5 is being delayed at Input_Buffer
+At clock cycle: 17, Router ID: 4, The Tail Flit is traveling from Source 1 to destination 7 at Crossbar and its delay is 30.0.
+At clock cycle: 17, Router ID: 4, The Tail Flit traveling from Source 1 to destination 7 is being delayed at Crossbar
+At clock cycle: 17, Router ID: 4, The Tail Flit traveling from Source 1 to destination 7 is being delayed at Switch Allocator
+At clock cycle: 17, Router ID: 4, The Tail Flit traveling from Source 1 to destination 7 is being delayed at Input_Buffer
+At clock cycle: 17, Router ID: 5, The Head Flit is traveling from Source 7 to destination 5 at switch_allocator and its delay is 39.0.
+At clock cycle: 17, Router ID: 7, The Body Flit is traveling from Source 1 to destination 7 at switch_allocator and its delay is 42.0.
+At clock cycle: 17, Router ID: 7, The Body Flit traveling from Source 1 to destination 7 is being delayed at Crossbar
+At clock cycle: 17, Router ID: 7, The Body Flit traveling from Source 1 to destination 7 is being delayed at Switch Allocator
+At clock cycle: 17, Router ID: 7, The Head Flit is traveling from Source 1 to destination 7 at Crossbar and its delay is 45.0.
+At clock cycle: 17, Router ID: 7, The Head Flit traveling from Source 1 to destination 7 is being delayed at Crossbar
+At clock cycle: 17, Router ID: 7, The Head Flit traveling from Source 1 to destination 7 is being delayed at Switch Allocator
+-----------------------------------------------------NEW CYCLE----------------------------------------------------
+
+At clock cycle: 18, Router ID: 4, The Tail Flit is traveling from Source 7 to destination 5 at switch_allocator and its delay is 24.0.
+At clock cycle: 18, Router ID: 4, The Body Flit is traveling from Source 7 to destination 5 at Crossbar and its delay is 30.0.
+At clock cycle: 18, Router ID: 5, The Head Flit is traveling from Source 7 to destination 5 at Crossbar and its delay is 42.0.
+At clock cycle: 18, Router ID: 7, The Tail Flit is traveling from Source 1 to destination 7 at input_buffer and its delay is 36.0.
+At clock cycle: 18, Router ID: 7, The Body Flit is traveling from Source 1 to destination 7 at Crossbar and its delay is 48.0.
+-----------------------------------------------------NEW CYCLE----------------------------------------------------
+
+At clock cycle: 19, Router ID: 4, The Tail Flit is traveling from Source 7 to destination 5 at switch_allocator and its delay is 24.0.
+At clock cycle: 19, Router ID: 4, The Tail Flit traveling from Source 7 to destination 5 is being delayed at Crossbar
+At clock cycle: 19, Router ID: 4, The Tail Flit traveling from Source 7 to destination 5 is being delayed at Switch Allocator
+At clock cycle: 19, Router ID: 4, The Body Flit is traveling from Source 7 to destination 5 at Crossbar and its delay is 30.0.
+At clock cycle: 19, Router ID: 4, The Body Flit traveling from Source 7 to destination 5 is being delayed at Crossbar
+At clock cycle: 19, Router ID: 4, The Body Flit traveling from Source 7 to destination 5 is being delayed at Switch Allocator
+At clock cycle: 19, Router ID: 7, The Tail Flit is traveling from Source 1 to destination 7 at input_buffer and its delay is 36.0.
+At clock cycle: 19, Router ID: 7, The Tail Flit traveling from Source 1 to destination 7 is being delayed at Crossbar
+At clock cycle: 19, Router ID: 7, The Tail Flit traveling from Source 1 to destination 7 is being delayed at Input_Buffer
+At clock cycle: 19, Router ID: 7, The Body Flit is traveling from Source 1 to destination 7 at Crossbar and its delay is 48.0.
+At clock cycle: 19, Router ID: 7, The Body Flit traveling from Source 1 to destination 7 is being delayed at Crossbar
+At clock cycle: 19, Router ID: 7, The Body Flit traveling from Source 1 to destination 7 is being delayed at Input_Buffer
+-----------------------------------------------------NEW CYCLE----------------------------------------------------
+
+At clock cycle: 20, Router ID: 4, The Tail Flit is traveling from Source 7 to destination 5 at Crossbar and its delay is 30.0.
+At clock cycle: 20, Router ID: 5, The Body Flit is traveling from Source 7 to destination 5 at input_buffer and its delay is 36.0.
+At clock cycle: 20, Router ID: 7, The Tail Flit is traveling from Source 1 to destination 7 at switch_allocator and its delay is 42.0.
+-----------------------------------------------------NEW CYCLE----------------------------------------------------
+
+At clock cycle: 21, Router ID: 4, The Tail Flit is traveling from Source 7 to destination 5 at Crossbar and its delay is 30.0.
+At clock cycle: 21, Router ID: 4, The Tail Flit traveling from Source 7 to destination 5 is being delayed at Crossbar
+At clock cycle: 21, Router ID: 5, The Body Flit is traveling from Source 7 to destination 5 at switch_allocator and its delay is 39.0.
+At clock cycle: 21, Router ID: 7, The Tail Flit is traveling from Source 1 to destination 7 at switch_allocator and its delay is 42.0.
+At clock cycle: 21, Router ID: 7, The Tail Flit traveling from Source 1 to destination 7 is being delayed at Switch Allocator
+-----------------------------------------------------NEW CYCLE----------------------------------------------------
+
+At clock cycle: 22, Router ID: 5, The Tail Flit is traveling from Source 7 to destination 5 at input_buffer and its delay is 36.0.
+At clock cycle: 22, Router ID: 5, The Body Flit is traveling from Source 7 to destination 5 at Crossbar and its delay is 42.0.
+At clock cycle: 22, Router ID: 7, The Tail Flit is traveling from Source 1 to destination 7 at Crossbar and its delay is 48.0.
+-----------------------------------------------------NEW CYCLE----------------------------------------------------
+
+At clock cycle: 23, Router ID: 5, The Tail Flit is traveling from Source 7 to destination 5 at switch_allocator and its delay is 39.0.
+At clock cycle: 23, Router ID: 7, The Tail Flit is traveling from Source 1 to destination 7 at Crossbar and its delay is 48.0.
+At clock cycle: 23, Router ID: 7, The Tail Flit traveling from Source 1 to destination 7 is being delayed at Crossbar
+-----------------------------------------------------NEW CYCLE----------------------------------------------------
+
+At clock cycle: 24, Router ID: 5, The Tail Flit is traveling from Source 7 to destination 5 at Crossbar and its delay is 42.0.
+-----------------------------------------------------NEW CYCLE----------------------------------------------------
+
+-----------------------------------------------------NEW CYCLE----------------------------------------------------
+
